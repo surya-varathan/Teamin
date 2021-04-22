@@ -4,5 +4,5 @@ Teamin’ is a Kanban style, web-based, list-making application. Given how a lot
 
 ## Contributors:
 
-### Ananya H
-### Surya Varathan
+### - [Ananya H](https://github.com/ananyaHaraprasad)
+### - [Surya Varathan](https://github.com/surya-varathan)
